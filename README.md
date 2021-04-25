@@ -1,3 +1,3 @@
 # Utilities
 
-Handy helper functions
+Handy helper functions.
